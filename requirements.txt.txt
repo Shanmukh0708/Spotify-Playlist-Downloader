@@ -1,0 +1,5 @@
+spotipy
+yt-dlp
+mutagen
+tqdm
+python-dotenv
